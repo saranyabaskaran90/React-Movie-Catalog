@@ -1,4 +1,4 @@
-##Overview
+## Overview
 This is a Movie Catalog project done with React + Redux using omdbAPI
 
 In this application, I have used fetch method to make the API calls and used Bootstrap 4 for Layout designing.
